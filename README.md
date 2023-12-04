@@ -12,7 +12,7 @@ This repository contains the datasets, icons, and Jupyter Notebook (.ipynb) file
 ## Power BI Dashboard
 The Power BI dashboard is designed to offer concise insights into key economic indicators, including total revenue, e-STAMPS contributions, and transportation statistics. The dashboard comprises two main sections: e-STAMPS and Transportation.
 
-Here's the dashboard: 
+Here's the dashboard: <a href="https://app.powerbi.com/view?r=eyJrIjoiNjliZjYxNjUtNTQ5My00ZjgwLThiOTQtYWY0YzkwMjNmNWQ3IiwidCI6IjhlODZjZjVlLTEyNTItNDFhNS1hN2IyLTBmZGJiOTFhMzUyNCJ9"> Telangana Growth Analysis PBIX </a>
 ### e-STAMPS Section
 **KPI Cards**: Overview of total districts, document registration revenue, e-STAMPS revenue, and current month statistics. <br>
 
