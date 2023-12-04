@@ -14,18 +14,24 @@ The Power BI dashboard is designed to offer concise insights into key economic i
 
 Here's the dashboard: 
 ### e-STAMPS Section
-**KPI Cards**: Overview of total districts, document registration revenue, e-STAMPS revenue, and current month statistics.<br>
+**KPI Cards**: Overview of total districts, document registration revenue, e-STAMPS revenue, and current month statistics. <br>
+
 **Charts**: Stacked horizontal bar chart for overall revenue by districts, donut chart for top 5 districts by e-STAMPS revenue, area chart for total revenue by year, and a map chart displaying revenue across districts. <br>
 
 ### Transportation Section
 **KPI Cards**: Summary of total vehicles sold, new and pre-owned vehicles, and a breakdown of transport and non-transport vehicles. <br>
+
 **Charts**: Stacked area chart for monthly vehicle sales, stacked horizontal bar charts for vehicle class segmentation, and transport vs. non-transport vehicles in top 10 districts, donut chart for vehicles sold by fuel type, and a map chart for revenue across districts. <br>
 
 ## How to Use
 **Datasets**: Download the datasets from the datasets directory. <br>
+
 **Icons**: Access the icons from the icons directory for visual enhancements. <br>
+
 **Telangana_Growth_Analysis.ipynb**: Refer to the Jupyter Notebook for insights into data preprocessing and transformation. <br>
+
 **Metadata**: Refers to the description of each datasets. <br>
+
 **telangana_district_map.json**: Refers to a customer shape map to use in dashboarding. <br>
 
 ## Contributions
