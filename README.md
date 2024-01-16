@@ -2,6 +2,8 @@
 ## Overview
 This repository contains the datasets, icons, and Jupyter Notebook (.ipynb) file used to develop the Telangana Growth Analysis Dashboard in Power BI. The dashboard provides transparent insights into the economic landscape of Telangana, specifically focusing on e-STAMPS and Transportation data. <br>
 
+This project is a submission for <a href = "https://codebasics.io/challenge/codebasics-resume-project-challenge">Codebasics Resume Project Challenge</a>. <br>
+
 Here's the dashboard: <a href="https://app.powerbi.com/view?r=eyJrIjoiNjliZjYxNjUtNTQ5My00ZjgwLThiOTQtYWY0YzkwMjNmNWQ3IiwidCI6IjhlODZjZjVlLTEyNTItNDFhNS1hN2IyLTBmZGJiOTFhMzUyNCJ9"> Telangana Growth Analysis PBIX </a>
 ## Files and Structure
 **Datasets**: The datasets directory contains the raw data used for the analysis, including e-STAMPS revenue, documentation registrations, and transportation statistics. <br>
@@ -30,12 +32,12 @@ The Power BI dashboard is designed to offer concise insights into key economic i
 
 **Telangana_Growth_Analysis.ipynb**: Refer to the Jupyter Notebook for insights into data preprocessing and transformation. <br>
 
-**Metadata**: Refers to the description of each datasets. <br>
+**Metadata**: Refers to the description of each dataset. <br>
 
-**telangana_district_map.json**: Refers to a customer shape map to use in dashboarding. <br>
+**telangana_district_map.json**: Refers to a customer shape map for dashboarding. <br>
 
 ## Contributions
-Feel free to contribute by opening issues or creating pull requests for improvements or additional analyses.
+You can feel free to contribute by opening issues or creating pull requests for improvements or additional analyses.
 
 ## License
 This project is unlicensed. All rights are reserved.
